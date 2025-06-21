@@ -1,7 +1,7 @@
 <h1 align="center">🏡 Airbnb Clone - Modern Rental Booking App</h1>
 
 <p align="center">
-  🔗 <strong>Live Demo →</strong> <a href="https://airbnb-project-bhawanagupta13.vercel.app/">🌐 airbnb-project.vercel.app</a>
+  🔗 <strong>Live Demo →</strong> <a href="[https://airbnb-project-bhawanagupta13.vercel.app/](https://airbnb-project-75zn.onrender.com/listings)">🌐 airbnb-project.app</a>
 </p>
 
 <p align="center">
