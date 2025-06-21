@@ -86,7 +86,7 @@ Feel free to fork this repo, suggest improvements, or raise issues — contribut
 
 ## 👩‍💻 Created By
 
-Made with ❤ by [**Bhavana Gupta**](https://github.com/Bhawanagupta13)
+Made with ❤ by [**Bhawana Gupta**](https://github.com/Bhawanagupta13)
 
 > *"Stay. Search. Experience. Redefined."*
 
