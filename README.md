@@ -34,7 +34,8 @@
 
 ## 📸 Preview
 
-![Airbnb Clone UI Preview](https://github.com/Bhawanagupta13/Airbnb_Project/assets/demo-preview.png)
+![Airbnb Clone UI Preview](https://github.com/user-attachments/assets/16e09f9e-0b86-4f11-9dd2-4e6c14d7b3d9)
+
 <!-- Replace with real image or gif if available -->
 
 ---
